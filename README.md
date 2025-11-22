@@ -35,14 +35,14 @@ GitHub: https://github.com/portuga-vivi
 
 ## 📸 Screenshots
 
-### Help Screen  
-![Help Screen](docs/sc1.jpeg)
-
 ### Input Screen  
-![Input Screen](docs/sc2.jpeg)
+![Input Screen](docs/sc1.jpeg)
 
 ### Result Screen  
-![Result Screen](docs/sc3.jpeg)
+![Result Screen](docs/sc2.jpeg)
 
 ### Contact Screen  
-![Contact Screen](docs/sc4.jpeg)
+![Contact Screen](docs/sc3.jpeg)
+
+### Help Screen  
+![Help Screen](docs/sc4.jpeg)
