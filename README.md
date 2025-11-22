@@ -31,3 +31,18 @@ Simple and functional UI
 
 Egas Viegas Portugal
 GitHub: https://github.com/portuga-vivi
+
+
+## 📸 Screenshots
+
+### Help Screen  
+![Help Screen](docs/sc1.jpeg)
+
+### Input Screen  
+![Input Screen](docs/sc2.jpeg)
+
+### Result Screen  
+![Result Screen](docs/sc3.jpeg)
+
+### Contact Screen  
+![Contact Screen](docs/sc4.jpeg)
